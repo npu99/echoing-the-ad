@@ -1,0 +1,192 @@
+block,occ,item,n_ads,n,share,rank
+pattern,architect,solution architect,250,29,0.116,
+pattern,architect,solutions architect,250,25,0.1,
+pattern,architect,cloud architect,250,14,0.056,
+pattern,architect,data architect,250,19,0.076,
+pattern,architect,software architect,250,2,0.008,
+pattern,architect,enterprise architect,250,9,0.036,
+pattern,architect,security architect,250,9,0.036,
+pattern,architect,network architect,250,3,0.012,
+pattern,architect,technical architect,250,6,0.024,
+pattern,architect,systems architect,250,1,0.004,
+pattern,architect,it architect,250,2,0.008,
+any pattern,architect,any of the patterns,250,119,0.476,
+pattern,physician,physician assistant,250,71,0.284,
+pattern,physician,physician associate,250,1,0.004,
+any pattern,physician,any of the patterns,250,72,0.288,
+pattern,dentist,dental hygienist,250,68,0.272,
+pattern,dentist,dental assistant,250,62,0.248,
+pattern,dentist,dental technician,250,0,0.0,
+pattern,dentist,dental office,250,3,0.012,
+pattern,dentist,dental receptionist,250,10,0.04,
+any pattern,dentist,any of the patterns,250,143,0.572,
+pattern,surgeon,surgical tech,250,5,0.02,
+pattern,surgeon,surgical technologist,250,41,0.164,
+pattern,surgeon,surgical technician,250,11,0.044,
+pattern,surgeon,surgical assistant,250,4,0.016,
+pattern,surgeon,surgical nurse,250,3,0.012,
+any pattern,surgeon,any of the patterns,250,64,0.256,
+pattern,psychologist,physical therapist,250,96,0.384,
+pattern,psychologist,occupational therapist,250,28,0.112,
+pattern,psychologist,speech therapist,250,1,0.004,
+pattern,psychologist,massage therapist,250,2,0.008,
+pattern,psychologist,respiratory therapist,250,13,0.052,
+any pattern,psychologist,any of the patterns,250,140,0.56,
+pattern,nurse,nursing assistant,250,27,0.108,
+pattern,nurse,certified nursing assistant,250,24,0.096,
+pattern,nurse,cna,250,7,0.028,
+pattern,nurse,nursing aide,250,1,0.004,
+any pattern,nurse,any of the patterns,250,28,0.112,
+counsel,attorney,Counsel,250,4,0.016,1.0
+counsel,attorney,Assistant General Counsel,250,3,0.012,2.0
+counsel,attorney,Senior Legal Counsel,250,2,0.008,3.0
+counsel,attorney,"Labor & Employment Attornery - Associates, Sr. Counsel, or Partner (REMOTE), AM 100",250,2,0.008,4.0
+counsel,attorney,Associate General Counsel,250,2,0.008,5.0
+counsel,attorney,"Counsel, Washington, DC",250,2,0.008,6.0
+counsel,attorney,In-House Counsel,250,2,0.008,7.0
+counsel,attorney,Sr Counsel Regulatory Compliance,250,1,0.004,8.0
+counsel,attorney,Corporate Counsel - Global Generative AI Company,250,1,0.004,9.0
+counsel,attorney,Assistant General Counsel - BSC (Hybrid),250,1,0.004,10.0
+title,nurse,Registered Nurse,250,7,0.028,1.0
+title,nurse,CERTIFIED NURSING ASSISTANT - OAK FOREST HEALTH & REHAB CENTER,250,5,0.02,2.0
+title,nurse,Registered Nurse (RN),250,3,0.012,3.0
+title,nurse,Nurse Practitioner,250,3,0.012,4.0
+title,nurse,Registered Nurse - RN - LTAC,250,3,0.012,5.0
+title,nurse,Licensed Practical Nurse (LPN),250,3,0.012,6.0
+title,nurse,LICENSED PRACTICAL NURSE - BERMUDA COMMONS,250,3,0.012,7.0
+title,nurse,Med-Surg Registered Nurse,250,2,0.008,8.0
+title,nurse,HOME CARE REGISTERED NURSE,250,2,0.008,9.0
+title,nurse,LICENSED PRACTICAL NURSE - CAPITAL NURSING AND REHABILITATION CENTER,250,2,0.008,10.0
+title,software_engineer,Software Engineer,250,28,0.112,1.0
+title,software_engineer,Senior Software Engineer,250,16,0.064,2.0
+title,software_engineer,Full Stack Engineer,250,8,0.032,3.0
+title,software_engineer,Embedded Software Engineer,250,7,0.028,4.0
+title,software_engineer,Lead Software Engineer,250,5,0.02,5.0
+title,software_engineer,Software Developer,250,5,0.02,6.0
+title,software_engineer,Software Engineer in Test,250,4,0.016,7.0
+title,software_engineer,Staff Software Engineer,250,3,0.012,8.0
+title,software_engineer,Principal Software Engineer,250,3,0.012,9.0
+title,software_engineer,Senior Software Developer,250,3,0.012,10.0
+title,accountant,Senior Accountant,250,31,0.124,1.0
+title,accountant,Staff Accountant,250,18,0.072,2.0
+title,accountant,Accounting Manager,250,17,0.068,3.0
+title,accountant,Accountant,250,14,0.056,4.0
+title,accountant,Bookkeeper,250,7,0.028,5.0
+title,accountant,Tax Accountant,250,4,0.016,6.0
+title,accountant,Accounting Specialist,250,4,0.016,7.0
+title,accountant,Accounting Assistant,250,4,0.016,8.0
+title,accountant,Senior Corporate Accountant,250,3,0.012,9.0
+title,accountant,Corporate Accountant,250,2,0.008,10.0
+title,architect,Cloud Architect,250,9,0.036,1.0
+title,architect,Solutions Architect,250,7,0.028,2.0
+title,architect,Senior Data Architect,250,6,0.024,3.0
+title,architect,"Director, Event Monitoring and Optimization Architect",250,5,0.02,4.0
+title,architect,Data Architect,250,3,0.012,5.0
+title,architect,Salesforce Solution Architect,250,3,0.012,6.0
+title,architect,DevOps Architect,250,3,0.012,7.0
+title,architect,Project Architect,250,3,0.012,8.0
+title,architect,Enterprise Architect,250,2,0.008,9.0
+title,architect,PEGA Senior Business Architect,250,2,0.008,10.0
+title,psychologist,Licensed Therapist for Online Counseling,250,12,0.048,1.0
+title,psychologist,Physical Therapist,250,9,0.036,2.0
+title,psychologist,Occupational Therapist,250,7,0.028,3.0
+title,psychologist,Physical Therapist Assistant,250,7,0.028,4.0
+title,psychologist,Licensed Mental Health Counselor,250,6,0.024,5.0
+title,psychologist,Physical Therapist Assistant (PTA),250,4,0.016,6.0
+title,psychologist,Physical Therapist *Sign on Bonus*,250,3,0.012,7.0
+title,psychologist,Physical Therapist (PT),250,3,0.012,8.0
+title,psychologist,Respiratory Therapist,250,3,0.012,9.0
+title,psychologist,Substance Abuse Counselor,250,3,0.012,10.0
+title,attorney,Associate Attorney,250,34,0.136,1.0
+title,attorney,Attorney,250,13,0.052,2.0
+title,attorney,Labor & Employment Associate Attorney,250,5,0.02,3.0
+title,attorney,Family Law Attorney,250,5,0.02,4.0
+title,attorney,Insurance Defense Attorney,250,4,0.016,5.0
+title,attorney,Counsel,250,4,0.016,6.0
+title,attorney,Trial Attorney,250,4,0.016,7.0
+title,attorney,Labor And Employment Attorney,250,4,0.016,8.0
+title,attorney,Labor & Employment Attorney,250,3,0.012,9.0
+title,attorney,Real Estate Attorney,250,3,0.012,10.0
+title,teacher,TEACHER-SPECIAL EDUCATION,250,18,0.072,1.0
+title,teacher,TEACHER-SCIENCE,250,13,0.052,2.0
+title,teacher,TEACHER-SOCIAL STUDIES,250,7,0.028,3.0
+title,teacher,Teacher,250,6,0.024,4.0
+title,teacher,Clinical Educator,250,3,0.012,5.0
+title,teacher,Assistant Teacher,250,3,0.012,6.0
+title,teacher,Child Care Teacher,250,3,0.012,7.0
+title,teacher,Art Teacher,250,3,0.012,8.0
+title,teacher,Special Education Teacher,250,3,0.012,9.0
+title,teacher,TEACHER-COMPUTER,250,3,0.012,10.0
+title,surgeon,Registered Nurse - RN - Medical Surgical,250,12,0.048,1.0
+title,surgeon,RN - Medical/Surgical - Travel,250,9,0.036,2.0
+title,surgeon,Medical-Surgical Registered Nurse,250,8,0.032,3.0
+title,surgeon,Surgical Technologist,250,6,0.024,4.0
+title,surgeon,Surgical Technologist - Operating Room,250,4,0.016,5.0
+title,surgeon,Certified Surgical Technologist,250,4,0.016,6.0
+title,surgeon,Cert. Surgical Technologist,250,4,0.016,7.0
+title,surgeon,Surgical Assistant,250,4,0.016,8.0
+title,surgeon,Oral Surgeon,250,3,0.012,9.0
+title,surgeon,RN - Medical Surgical,250,2,0.008,10.0
+title,physician,Physician Assistant,250,16,0.064,1.0
+title,physician,Physician,250,8,0.032,2.0
+title,physician,Primary Care Physician,250,8,0.032,3.0
+title,physician,Family Physician,250,6,0.024,4.0
+title,physician,Emergency Medicine Physician - $275/yearly,250,5,0.02,5.0
+title,physician,Physician Family Practice,250,4,0.016,6.0
+title,physician,Locum | Physician Obstetrics and Gynecology,250,4,0.016,7.0
+title,physician,Locum | Physician Medical Oncology,250,3,0.012,8.0
+title,physician,Medical Doctor,250,3,0.012,9.0
+title,physician,Physician - Family Medicine,250,3,0.012,10.0
+title,professor,Assistant Professor,148,6,0.04054054054054054,1.0
+title,professor,Adjunct Faculty,148,4,0.02702702702702703,2.0
+title,professor,Assistant Research Professor,148,3,0.02027027027027027,3.0
+title,professor,Faculty Group Practice Medical Assistant (35),148,2,0.013513513513513514,4.0
+title,professor,Lecturer in Journalism and Communication - School of the Arts & Media,148,2,0.013513513513513514,5.0
+title,professor,Faculty for Nursing College - Foundations - Largo FL,148,2,0.013513513513513514,6.0
+title,professor,Assistant Professor Term,148,2,0.013513513513513514,7.0
+title,professor,Faculty Group Practice Sec I,148,2,0.013513513513513514,8.0
+title,professor,"Full Time Tenure Track Faculty, Economics Instructor",148,2,0.013513513513513514,9.0
+title,professor,Associate Professor (Open Rank) - Oral Immunology and Infectious Diseases,148,1,0.006756756756756757,10.0
+title,dentist,Dental Assistant,250,31,0.124,1.0
+title,dentist,Dentist,250,24,0.096,2.0
+title,dentist,Dental Hygienist,250,21,0.084,3.0
+title,dentist,Registered Dental Hygienist,250,15,0.06,4.0
+title,dentist,General Dentist,250,9,0.036,5.0
+title,dentist,Dental Receptionist,250,8,0.032,6.0
+title,dentist,Pediatric Dentist,250,7,0.028,7.0
+title,dentist,Associate Dentist,250,4,0.016,8.0
+title,dentist,Dental Hygienist - choose your own schedule,250,4,0.016,9.0
+title,dentist,Surgical Dental Assistant,250,4,0.016,10.0
+title,paralegal,Paralegal,250,44,0.176,1.0
+title,paralegal,Legal Assistant,250,30,0.12,2.0
+title,paralegal,Litigation Paralegal,250,18,0.072,3.0
+title,paralegal,Corporate Paralegal,250,10,0.04,4.0
+title,paralegal,IP Foreign Filing Paralegal,250,6,0.024,5.0
+title,paralegal,Legal Assistant (Management Analyst I),250,5,0.02,6.0
+title,paralegal,Real Estate Paralegal,250,4,0.016,7.0
+title,paralegal,Personal Injury Legal Assistant,250,4,0.016,8.0
+title,paralegal,Senior Paralegal,250,4,0.016,9.0
+title,paralegal,Legal Assistant (REMOTE),250,3,0.012,10.0
+title,dietitian,Registered Dietitian,77,23,0.2987012987012987,1.0
+title,dietitian,Dietitian,77,9,0.11688311688311688,2.0
+title,dietitian,Registered Dietitian (RD),77,3,0.03896103896103896,3.0
+title,dietitian,Clinical Dietitian,77,2,0.025974025974025976,4.0
+title,dietitian,Dietitian - Part-time,77,2,0.025974025974025976,5.0
+title,dietitian,Dietitian Specialist 1*,77,2,0.025974025974025976,6.0
+title,dietitian,Nutritionist,77,2,0.025974025974025976,7.0
+title,dietitian,"Dietitian, Per Diem",77,2,0.025974025974025976,8.0
+title,dietitian,Dietitian II - UPMC East,77,1,0.012987012987012988,9.0
+title,dietitian,Pediatric Dietitian I - Cardiac Transplant / Cardiology,77,1,0.012987012987012988,10.0
+second occupation,nurse,,250,0,0.0,
+second occupation,software_engineer,,250,0,0.0,
+second occupation,accountant,,250,0,0.0,
+second occupation,architect,software_engineer 2,250,2,0.008,
+second occupation,psychologist,,250,0,0.0,
+second occupation,attorney,,250,0,0.0,
+second occupation,teacher,nurse 3,250,3,0.012,
+second occupation,surgeon,"nurse 119, software_engineer 1",250,120,0.48,
+second occupation,physician,"nurse 35, surgeon 11",250,46,0.184,
+second occupation,professor,"nurse 20, physician 4, surgeon 1, teacher 2",148,27,0.18243243243243243,
+second occupation,dentist,"nurse 1, professor 1, psychologist 4, surgeon 9",250,15,0.06,
+second occupation,paralegal,,250,0,0.0,
+second occupation,dietitian,,77,0,0.0,

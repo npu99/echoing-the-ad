@@ -1,0 +1,3 @@
+test,measure,unit,y,x,status,alpha,n_occupations,n_jds,expected_sign,rho_within_occ,p_within_occ,diff_hi_lo,p_diff,rho_over_all_jds,p_over_all_jds,interpretable
+T1_gap_balance,logit,job description,gap_f_minus_m,balance,pre-specified,0.025,13,260,+,0.10550428179097836,0.09698060387922415,0.26579478916958965,0.3515296940611878,0.2502314857164055,4.493414566510719e-05,True
+T1_gap_balance,percentile,job description,gap_f_minus_m,balance,pre-specified,0.025,13,260,+,0.13249403263084578,0.032993401319736056,1.4946333770341147,0.04619076184763048,0.24628242736763778,5.96852967354597e-05,True

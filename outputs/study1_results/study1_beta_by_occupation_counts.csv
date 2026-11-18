@@ -1,0 +1,7 @@
+quantity,label,expected_sign,n_occ,n_beta_pos,n_ci_above_zero,n_ci_below_zero,n_ci_in_expected_dir
+communal_balance,F1  communal_balance,>0,27,25,18,1,18
+agency_rate,F1a agency_rate,<0,27,11,5,6,6
+communion_rate,F1b communion_rate,>0,27,24,20,1,20
+passive_ratio,F2  passive_ratio,>0,27,6,4,13,4
+f3_presence,F3  achievement (occurrence),<0,27,13,6,2,2
+f4_presence,F4  attribution (occurrence),>0,27,11,4,4,4

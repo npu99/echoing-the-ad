@@ -1,0 +1,10 @@
+check,n,value,auc_minimum,interpretable
+pairs_with_value,49323,0.9984412955465587,0.75,True
+pairs_with_partial_passes,53,0.0010728744939271255,0.75,True
+pairs_without_value,77,0.0015587044534412955,0.75,True
+answers_outside_yes_no,0,0.0,0.75,True
+repeatability_identical,0,0.0,0.75,True
+icc,50,0.999519,0.75,True
+sd_of_mean_median,49400,0.10156440734849723,0.75,True
+bio_texts_hash_equal,3404,1.0,0.75,True
+mean_auc,260,0.8376362161566945,0.75,True

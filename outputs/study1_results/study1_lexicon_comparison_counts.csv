@@ -1,0 +1,9 @@
+quantity,label,version,pred,n_occ,n_beta_pos,n_ci_above_zero,n_ci_below_zero
+communal_balance,F1  communal_balance,A,>0,27,25,18,1
+communal_balance,F1  communal_balance,A ∪ B,>0,27,24,18,0
+agency_rate,F1a agency_rate,A,<0,27,11,5,6
+agency_rate,F1a agency_rate,A ∪ B,<0,27,11,2,5
+communion_rate,F1b communion_rate,A,>0,27,24,20,1
+communion_rate,F1b communion_rate,A ∪ B,>0,27,24,19,2
+f3_presence,F3  achievement (presence),A,<0,27,13,6,2
+f3_presence,F3  achievement (presence),A ∪ B,<0,27,13,5,3

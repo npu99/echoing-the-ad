@@ -1,0 +1,28 @@
+occ,in_study2,bls_title,pct_women_bls_2025,match,note,source,checked_by_nora
+nurse,yes,Registered nurses,87.3,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+software_engineer,yes,Software developers,20.3,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+accountant,yes,Accountants and auditors,59.1,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+architect,yes,"Architects, except landscape and naval",29.8,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+psychologist,yes,Other psychologists,71.3,broad,Clinical and counseling psychologists and School psychologists have no published share (employment base too small),"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+attorney,yes,Lawyers,42.9,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+teacher,yes,Elementary and middle school teachers + Secondary school teachers,75.0,combined,Employment-weighted mean of 79.2 (3511 thousand) and 56.5 (790 thousand),"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+surgeon,yes,Surgeons,25.9,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+physician,yes,Other physicians,41.7,broad,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+professor,yes,Postsecondary teachers,52.3,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+dentist,yes,Dentists,38.6,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+paralegal,yes,Paralegals and legal assistants,82.4,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+dietitian,yes,Dietitians and nutritionists,91.7,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-05",yes (2026-10-05)
+photographer,no,Photographers,50.7,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+journalist,no,"News analysts, reporters, and journalists",41.1,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+painter,no,Artists and related workers,59.9,broad,"Bias in Bios: painter = visual artist; not BLS ""Painters and paperhangers"" (construction)","BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+pastor,no,Clergy,23.7,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+personal_trainer,no,Exercise trainers and group fitness instructors,66.1,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+yoga_teacher,no,Exercise trainers and group fitness instructors,66.1,broad,same BLS category as personal_trainer,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+interior_designer,no,Interior designers,82.8,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+model,no,"Models, demonstrators, and product promoters",,none,BLS publishes no share (base too small; the table shows a dash),"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+poet,no,Writers and authors,66.8,broad,category covers all writers and authors,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+filmmaker,no,Producers and directors,43.6,broad,also covers stage and television,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+composer,no,Music directors and composers,28.5,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+comedian,no,"Entertainers and performers, sports and related workers, all other",47.8,weak,residual category; weak match only,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+chiropractor,no,Chiropractors,31.1,direct,,"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no
+dj,no,"Disc jockeys, except radio",,none,BLS publishes no share (base too small; the table shows a dash),"BLS, Current Population Survey, Table 11, annual averages 2025, https://www.bls.gov/cps/cpsaat11.htm, retrieved 2026-10-10",no

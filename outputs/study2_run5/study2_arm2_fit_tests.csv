@@ -1,0 +1,5 @@
+arm,role,test,unit,y,x,expected_sign,n_occupations,rho,p_rho,diff_hi_lo,p_diff,alpha,n_perm,seed,status
+arm1,control,T1,job description,gap_f_minus_m,balance,+,13,0.0864095470647988,0.0001999600079984003,0.5456689585157466,0.0001999600079984003,0.025,5000,42,control against notebook 06
+arm1,control,T2,biography,slope_over_jds,bio_balance,+,13,0.12325409681896686,0.0001999600079984003,0.1856678070514445,0.0001999600079984003,0.025,5000,42,control against notebook 06
+arm2,result,T1,job description,gap_f_minus_m,balance,+,13,0.1002179344576633,0.0001999600079984003,0.7674482576550845,0.0001999600079984003,0.025,5000,42,"pre-specified, guide section 9"
+arm2,result,T2,biography,slope_over_jds,bio_balance,+,13,0.13187753852657033,0.0001999600079984003,0.24482395387262995,0.0001999600079984003,0.025,5000,42,"pre-specified, guide section 9"

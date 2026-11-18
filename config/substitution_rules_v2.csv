@@ -1,0 +1,253 @@
+rule_id,arm,source_word,n_pool_word,word_class,position,action,pattern,candidates,protect,weak,note,target_v1,lex_entry
+C001,communion,member,362,content,PH,replace,a member of,part of,,,is a member of the ADA -> is part of the ADA,delegate,member*
+C002,communion,member,362,content,N,replace,,part,comp,x,an active member of -> an active part of; board member stays (role),delegate,member*
+C003,communion,law,278,content,N,replace,,legal matters,comp,x,"no true substitute; family law, law school, School of Law stay",statute,law
+C004,communion,affiliated,262,neutral_factual,*,replace,,associated,,,,associated,affiliat*
+C005,communion,services,203,content,N,replace,,work,mod,x,"customer service, legal services and health services are fixed terms",programs,servic*
+C006,communion,teaching,171,content,V,replace,,instructing,,,working and teaching in -> working and instructing in,demonstrating,teach*
+C007,communion,teaching,171,content,N,replace,,instruction,,,prophetic teaching -> prophetic instruction,demonstrating,teach*
+C008,communion,teaching,171,content,M,replace,,instructional,,,teaching experience -> instructional experience; teaching assistant/hospital/certificate are fixed terms,demonstrating,teach*
+C009,communion,cooperates,163,neutral_factual,V,replace,,works,,,cooperates with other doctors -> works with other doctors (changed by Nora 2026-10-11),functions,cooperat*
+C010,communion,affiliates,161,neutral_factual,*,replace,,associates,,,affiliates with no hospital -> associates with no hospital,operates,affiliat*
+C011,communion,care,159,content,N,replace,,treatment|attention,comp,,"the care of patients -> the treatment of patients; health care, intensive care are fixed terms",consideration,care|care*
+C012,communion,care,159,content,PH,replace,care for,attend to,,,,consideration,care|care*
+C013,communion,group,158,content,N,replace,,cohort|cluster,comp,x,"medical group, practice group are fixed terms",cluster,group*
+C014,communion,education,150,content,N,replace,,instruction|schooling|training,mod,,nutrition education -> nutrition instruction; special education is a fixed term,curriculum,educat*
+C015,communion,family,131,content,N,replace,,relatives|household,comp,x,"time with family -> time with relatives; family law, family medicine are fixed terms",household,family
+C016,communion,team,124,content,N,replace,,unit|staff,mod,x,team members stays,division,team
+C017,communion,groups,122,content,N,replace,,cohorts|clusters,comp,x,,clusters,group*
+C018,communion,community,108,content,N,replace,,population|area,comp,x,the local community -> the local population; community college is a fixed term,framework,commun*
+C019,communion,public,105,content,ADJ,replace,,general,,x,"public health, public accounting, notary public are fixed terms",general,public
+C020,communion,public,105,content,N,replace,,general population,,x,the public -> the general population,general,public
+C021,communion,help,100,style,V+V,replace,,work to,,,to help provide -> to work to provide,handles,help*
+C022,communion,help,100,style,V+O+V,replace,,enable ... to,,,help patients achieve -> enable patients to achieve,handles,help*
+C023,communion,help,100,style,V,replace,,serve,,x,help clients with -> serve clients with,handles,help*
+C024,communion,help,100,style,N,replace,,backing,,x,with the help of,handles,help*
+C025,communion,accepts,97,content,V,replace,,works with,,x,accepts Blue Cross -> works with Blue Cross,admits,accept*
+C026,communion,teacher,91,content,N,replace,,instructor,mod,,math teacher -> math instructor,instructor,teach*
+C027,communion,support,84,style,N,replace,,backing,comp,x,"litigation support, support staff stay (compound)",process,support*
+C028,communion,support,84,style,V,replace,,serve|back,,x,support families -> serve families,process,support*
+C029,communion,helping,79,style,V+V,replace,,working to,,,helping develop -> working to develop,facilitating,help*
+C030,communion,helping,79,style,V+O+V,replace,,enabling ... to,,,helping patients achieve -> enabling patients to achieve,facilitating,help*
+C031,communion,helping,79,style,V,replace,,serving,,x,helping people -> serving people,facilitating,help*
+C032,communion,helping,79,style,N,replace,,backing,,,noun use; target set by Nora 2026-10-11,facilitating,help*
+C033,communion,teaches,75,content,V,replace,,instructs,,,,demonstrates,teach*
+C034,communion,taught,71,content,V,replace,,instructed|lectured,,,,conveyed,taught
+C035,communion,social,65,content,ADJ,replace,,organizational,,x,"social work, social media are fixed terms",organizational,socia*
+C036,communion,assists,62,style,V,replace,,serves,,,,serves,assist*
+C037,communion,service,62,content,N,replace,,work|duty,comp,x,years of service -> years of work,program,servic*
+C038,communion,families,59,content,N,replace,,households|relatives,,x,,households,families
+C039,communion,human,56,content,ADJ,replace,,individual,,x,"human resources, human rights are fixed terms",individual,human*
+C040,communion,human,56,content,N,replace,,person|individual,,,,individual,human*
+C041,communion,supports,54,style,V,replace,,serves|backs,,x,,provides,support*
+C042,communion,fellowship,48,content,N,replace,,specialty training program|training program,,,completed a fellowship in -> completed a specialty training program in,residency,fellow*
+C043,communion,counseling,46,content,N,replace,,consultation,comp,,provides counseling -> provides consultation,consultation,counsel*
+C044,communion,counseling,46,content,V,replace,,advising,,,,consultation,counsel*
+C045,communion,loves,45,style,V,replace,,likes|enjoys,,,loves spending time -> likes spending time,engages,love*
+C046,communion,assistant,42,content,N,replace,,aide|deputy,comp,x,"titles (assistant judge, research assistant) stay",coordinator,assist*
+C047,communion,civil,42,content,ADJ,replace,,legal,,x,"civil litigation, civil rights are fixed terms",legal,civil*
+C048,communion,teachers,41,content,N,replace,,instructors,mod,,,instructors,teach*
+C049,communion,helped,39,style,V+V,replace,,worked to,,,helped develop -> worked to develop,handled,help*
+C050,communion,helped,39,style,V+O+V,replace,,enabled ... to,,,,handled,help*
+C051,communion,helped,39,style,V,replace,,served,,x,helped families in Haiti -> served families in Haiti,handled,help*
+C052,communion,love,37,style,PH,replace,love for,interest in,,,a love for teaching -> an interest in teaching,dedication,love*
+C053,communion,love,37,style,PH,replace,love of,interest in,,,,dedication,love*
+C054,communion,love,37,style,V,replace,,like|enjoy,,,,dedication,love*
+C055,communion,love,37,style,N,replace,,interest|liking,,x,,dedication,love*
+C056,communion,offers,36,neutral_factual,V,replace,,provides,,,,delivers,offer*
+C057,communion,offers,36,neutral_factual,N,replace,,proposals,,,"noun use (job offers); Nora proposed tenders, which matches the communion entry tender*; proposals used instead",delivers,offer*
+C058,communion,learn,32,neutral_factual,V,replace,,find out|study,,x,To learn more -> To find out more,study,learn*
+C059,communion,assisting,30,style,V,replace,,serving,,,,administering,assist*
+C060,communion,communities,30,content,N,replace,,populations|areas,,x,groups cannot be the target: group/groups are communion entries themselves,districts,commun*
+C061,communion,educational,29,content,ADJ,replace,,instructional|academic|curricular,,,,curricular,educat*
+C062,communion,relationship,29,style,N,replace,,interaction,,x,,interaction,relationship*
+C063,communion,teams,29,content,N,replace,,units|staff,mod,x,,divisions,teams
+C064,communion,assisted,28,style,V,replace,,served,,,,served,assist*
+C065,communion,affiliations,26,neutral_factual,N,replace,,associations,,,,associations,affiliat*
+C066,communion,relationships,24,style,N,replace,,interactions,,x,,interactions,relationship*
+C067,communion,educator,21,content,N,replace,,instructor|trainer,,,,trainer,educat*
+C068,communion,supporting,20,style,V,replace,,serving|backing,,x,,reinforcing,support*
+C069,communion,supporting,20,style,ADJ,replace,,supplementary,,,"supporting documents -> supplementary documents; Nora proposed accompanying, which matches the communion entry accompan*; supplementary used instead",reinforcing,support*
+C070,communion,trust,20,content,N,replace,,reliance|commitment,comp,x,legal term (trusts and estates) is in the fixed terms,commitment,trust*
+C071,communion,trust,20,content,V,replace,,rely on,,x,patients trust her -> patients rely on her,commitment,trust*
+C072,communion,counsel,17,content,V,replace,,advise,,,,advisor,counsel*
+C073,communion,counsel,17,content,N,replace,,advisor,comp,,"general counsel, of counsel are fixed terms",advisor,counsel*
+C074,communion,share,17,style,V,replace,,present|provide,,x,,provide,share
+C075,communion,friend,16,neutral_factual,N,replace,,acquaintance,,x,,acquaintance,friend*
+C076,communion,learned,15,neutral_factual,V,replace,,found out|studied,,x,,studied,learn*
+C077,communion,shares,14,style,V,replace,,presents|provides,,x,,provides,shares
+C078,communion,partnership,13,content,PH,replace,in partnership with,in coordination with,,,,interaction,partner*
+C079,communion,partnership,13,content,N,replace,,joint venture,comp,x,a business partnership stays (compound),interaction,partner*
+C080,communion,collaboration,12,style,N,replace,,coordination,,,in collaboration with -> in coordination with,coordination,collab*
+C081,communion,contributing,12,neutral_factual,V,replace,,adding,,x,,submitting,contribut*
+C082,communion,contributing,12,neutral_factual,ADJ,other_sense,,,,,contributing author = fixed role,submitting,contribut*
+C083,communion,contributes,11,neutral_factual,V,replace,,adds,,x,contributes to -> adds to,submits,contribut*
+C084,communion,guidance,11,style,N,replace,,direction,,,,direction,guidanc*
+C085,communion,volunteer,11,content,M,replace,,unpaid,,,volunteer work -> unpaid work,participant,volunt*
+C086,communion,volunteer,11,content,N,replace,,unpaid worker|participant,,x,,participant,volunt*
+C087,communion,volunteer,11,content,V,replace,,work unpaid,,x,,participant,volunt*
+C088,communion,compassion,10,style,N,replace,,dedication,,,,dedication,compassion*
+C089,communion,compassionate,10,style,ADJ,delete,,attentive,,,compassionate care -> care,dedicated,compassion*
+C090,communion,contributions,10,neutral_factual,N,replace,,work|input,,x,,outputs,contribut*
+C091,communion,collaborative,9,style,ADJ,delete,,coordinated,,,collaborative approach -> approach,coordinated,collab*
+C092,communion,educating,9,content,V,replace,,instructing,,,,instructing,educat*
+C093,communion,supportive,9,style,ADJ,delete,,constructive|attentive,,,a supportive environment -> an environment; is supportive -> is constructive,structured,support*
+C094,communion,caring,8,style,ADJ,delete,,attentive,,,a caring physician -> a physician,dedicated,caring*
+C095,communion,caring,8,style,PH,replace,caring for,attending to,,,caring for patients -> attending to patients,dedicated,caring*
+C096,communion,counsels,8,style,V,replace,,advises,,,,advises,counsel*
+C097,communion,supported,8,style,V,replace,,served|backed,,x,,provided,support*
+C098,communion,volunteering,8,content,N,replace,,unpaid work,,,,registering,volunt*
+C099,communion,volunteering,8,content,V,replace,,working unpaid,,x,,registering,volunt*
+C100,communion,collaborated,7,style,V,replace,,coordinated|worked,,,,managed,collab*
+C101,communion,collective,7,content,ADJ,delete,,combined,,,collective bargaining is in the fixed terms,combined,collective*
+C102,communion,sharing,7,style,V,replace,,presenting|providing,,x,,providing,sharing
+C103,communion,appreciation,6,style,N,replace,,regard|acknowledgment,,x,,acknowledgment,appreciat*
+C104,communion,collaborate,6,style,V,replace,,coordinate|work,,,collaborate with -> coordinate with,manage,collab*
+C105,communion,accepted,5,content,PH,replace,accepted into,admitted into,,x,was accepted into the program -> was admitted into the program; other uses stay untouched (no reliable substitute),admitted,accept*
+C106,communion,cares,5,style,PH,replace,cares for,attends to,,,,attends,cares|care*
+C107,communion,friendly,5,style,ADJ,delete,,accessible,,,,noted,friend*
+C108,communion,loved,5,style,V,replace,,liked|enjoyed,,,,engaged,love*
+C109,communion,loving,5,style,ADJ,delete,,dedicated,,,,dedicated,loving*
+C110,communion,inclusive,4,style,ADJ,delete,,broad,,,inclusive education is in the fixed terms,broad,inclusiv*
+C111,communion,shared,4,style,V,replace,,presented|provided,,x,,provided,shared
+C112,communion,trusted,4,style,ADJ,delete,,noted,,,trusted advisor -> advisor,dedicated,trust*
+C113,communion,collaborates,3,style,V,replace,,coordinates|works,,,,manages,collab*
+C114,communion,collaborating,3,style,V,replace,,coordinating|working,,,,managing,collab*
+C115,communion,discussion,3,neutral_factual,N,replace,,exchange,,,,exchange,discuss*
+C116,communion,humans,3,content,N,replace,,individuals|people,,,,individuals,human*
+C117,communion,nurturing,3,style,ADJ,delete,,attentive,,,,developing,nurtur*
+C118,communion,nurturing,3,style,V,replace,,developing,,,,developing,nurtur*
+C119,communion,discussions,2,neutral_factual,N,replace,,exchanges,,,,exchanges,discuss*
+C120,communion,empathetic,2,style,ADJ,delete,,attentive,,,,attentive,empath*
+C121,communion,empathy,2,style,N,replace,,attentiveness,,,,attentiveness,empath*
+C122,communion,friendship,2,neutral_factual,N,replace,,rapport|interaction,,x,,interaction,friend*
+C123,communion,harmonious,2,style,ADJ,delete,,aligned,,,,aligned,harmon*
+C124,communion,helpful,2,style,ADJ,replace,,useful,,,,useful,help*
+C125,communion,recommends,2,neutral_factual,V,replace,,advises,,,,indicates,recommend*
+C126,communion,trusting,2,style,ADJ,delete,,,,,,systematic,trust*
+C127,communion,welcoming,2,style,ADJ,delete,,accessible,,,,accessible,welcom*
+C128,communion,cared,1,style,PH,replace,cared for,attended to,,,,provided,cared|care*
+C129,communion,educates,1,content,V,replace,,instructs,,,,instructs,educat*
+C130,communion,empathic,1,style,ADJ,delete,,attentive,,,,attentive,empath*
+C131,communion,generosity,1,style,N,replace,,dedication,,,,dedication,generos*
+C132,communion,loyal,1,style,ADJ,delete,,dedicated,,,,dedicated,loyal*
+C133,communion,nurtures,1,style,V,replace,,develops,,,,develops,nurtur*
+C134,communion,generous,0,style,ADJ,delete,,substantial,,,,substantial,generous*
+C135,communion,generously,0,style,ADV,delete,,,,,,substantially,generous*
+C136,communion,harmony,0,style,N,replace,,coordination,,,,coordination,harmon*
+C137,communion,kindly,0,style,ADV,delete,,,,,,noted,kindly
+C138,communion,kindness,0,style,N,replace,,consideration,,,,consideration,kindness
+C139,communion,nurturance,0,style,N,replace,,development,,,,development,nurtur*
+C140,communion,nurture,0,style,V,replace,,develop,,,,develop,nurtur*
+C141,communion,nurtured,0,style,V,replace,,developed,,,,developed,nurtur*
+C142,communion,togetherness,0,style,N,replace,,coordination,,,,coordination,together*
+A001,agency,practice,412,content,V+O,replace,,work in,,,practice medicine -> work in medicine,method,practic*
+A002,agency,practice,412,content,V,replace,,work|operate,,,licensed to practice in -> licensed to work in,method,practic*
+A003,agency,practice,412,content,N+DET,replace,,office|firm,mod,,a medical practice -> a medical office; private practice is a fixed term,method,practic*
+A004,agency,practice,412,content,N,replace,,work|occupation,mod,,began practice in 1962 -> began work in 1962; practice areas stays,method,practic*
+A005,agency,practices,372,content,V+O,replace,,works in,,,practices medicine in Memphis -> works in medicine in Memphis,methods,practic*
+A006,agency,practices,372,content,V,replace,,works|operates,,,practices at St Louis -> works at St Louis,methods,practic*
+A007,agency,practices,372,content,N,replace,,methods|offices,,x,best practices is a fixed term,methods,practic*
+A008,agency,earned,147,neutral_factual,V,replace,,received,,,earned her J.D. -> received her J.D.,produced,earned
+A009,agency,expertise,100,style,N,replace,,specialization|specialty,,,areas of expertise -> areas of specialization,grounding,expert*
+A010,agency,knowledge,63,neutral_factual,N,replace,,grasp,,,vast knowledge of -> vast grasp of (know-how is itself a dictionary entry),foundation,know*
+A011,agency,skills,63,neutral_factual,N,replace,,techniques,,x,,techniques,skills*
+A012,agency,takes,61,neutral_factual,PH,replace,takes care of,attends to,,,,processes,takes
+A013,agency,takes,61,neutral_factual,PH,replace,takes on,handles,,,,processes,takes
+A014,agency,takes,61,neutral_factual,V,replace,,has|uses,,x,takes pride in -> has pride in,processes,takes
+A015,agency,obtained,52,neutral_factual,V,replace,,received,,,,received,obtain*
+A016,agency,practicing,52,content,V+O,replace,,working in,,,practicing labor law -> working in labor law,applying,practic*
+A017,agency,practicing,52,content,V,replace,,working,,,began practicing in 1997 -> began working in 1997,applying,practic*
+A018,agency,practicing,52,content,ADJ,delete,,,,,a practicing attorney -> an attorney,applying,practic*
+A019,agency,needs,45,neutral_factual,N,replace,,requirements,,,special needs is a fixed term,requirements,needs
+A020,agency,needs,45,neutral_factual,V,replace,,requires,,,,requirements,needs
+A021,agency,responsible,45,neutral_factual,PH,replace,responsible for,in charge of,,,is responsible for -> is in charge of,designated,responsib*
+A022,agency,responsible,45,neutral_factual,ADJ,delete,,designated,,x,,designated,responsib*
+A023,agency,self,38,neutral_factual,N,replace,,identity,,,self-employed stays (hyphenated),identity,self
+A024,agency,expert,37,style,*,replace,,specialist,,,expert witness is a fixed term,specialist,expert*|expert
+A025,agency,making,37,neutral_factual,PH,replace,making sure,ensuring,,,,assembling,making
+A026,agency,making,37,neutral_factual,V,replace,,producing,mod,x,decision making is a fixed term,assembling,making
+A027,agency,recognized,30,style,*,replace,,acknowledged,,,,acknowledged,recog*
+A028,agency,known,29,style,PH,other_sense,known as,,,,"naming, stays",documented,know*
+A029,agency,known,29,style,*,replace,,noted|documented,,,known for -> noted for,documented,know*
+A030,agency,goals,28,neutral_factual,N,replace,,aims|targets,,,,benchmarks,goals
+A031,agency,achieve,27,style,V,replace,,reach,,,,complete,achiev*
+A032,agency,risk,26,content,N,replace,,hazard|exposure,comp,x,risk management is a fixed term,variable,risk*
+A033,agency,pursuing,21,neutral_factual,V,replace,,working toward,,,pursuing a Masters -> working toward a Masters,working,pursu*
+A034,agency,successful,21,style,ADJ,delete,,fruitful,,,a successful practice -> a practice,fruitful,success*
+A035,agency,thinking,21,content,V,replace,,considering,,,,pondering,thinking
+A036,agency,thinking,21,content,N,replace,,analysis|ideas,comp,x,critical thinking is a fixed term; candidates replaced because the earlier ones were lexicon entries,pondering,thinking
+A037,agency,taking,19,neutral_factual,PH,replace,taking care of,attending to,,,,assuming,taking
+A038,agency,taking,19,neutral_factual,PH,replace,taking on,handling,,,,assuming,taking
+A039,agency,taking,19,neutral_factual,V,replace,,having|using,,x,,assuming,taking
+A040,agency,doing,18,neutral_factual,V,replace,,conducting|carrying out,,x,doing research -> conducting research,conducting,doing
+A041,agency,independent,18,content,ADJ,replace,,separate|standalone,,x,independent contractor is a fixed term,structured,independ*
+A042,agency,success,18,style,N,replace,,outcome|result,,x,,outcome,success*
+A043,agency,winning,18,style,V,replace,,receiving|securing,,x,,delivering,winning*
+A044,agency,winning,18,style,ADJ,delete,,,,,award-winning stays (hyphenated),delivering,winning*
+A045,agency,established,17,neutral_factual,V,replace,,founded|set up,,,,founded,established
+A046,agency,established,17,neutral_factual,ADJ,delete,,,,,an established firm -> a firm; well-established stays (hyphenated),founded,established
+A047,agency,responsibilities,17,neutral_factual,N,replace,,duties|tasks,,,,assignments,responsib*
+A048,agency,needed,16,neutral_factual,*,replace,,required,,,,required,needed
+A049,agency,practical,16,neutral_factual,ADJ,replace,,hands-on|applied,,,,applied,practic*
+A050,agency,won,16,style,V,replace,,received|secured,,,won the award -> received the award,delivered,won
+A051,agency,opportunity,15,neutral_factual,N,replace,,chance|occasion,,,equal opportunity is a fixed term,prospect,opportun*
+A052,agency,obtaining,14,neutral_factual,V,replace,,receiving,,,,gathering,obtain*
+A053,agency,earning,13,neutral_factual,V,replace,,receiving,,,,producing,earning
+A054,agency,experts,12,style,N,replace,,specialists,,,,specialists,expert*
+A055,agency,difficult,9,neutral_factual,ADJ,replace,,challenging,,,,challenging,difficult*
+A056,agency,pursued,9,neutral_factual,V,replace,,worked toward|followed,,x,,concluded,pursu*
+A057,agency,earn,8,neutral_factual,V,replace,,receive,,,,produce,earn
+A058,agency,establishing,8,neutral_factual,V,replace,,founding|setting up,,,,founding,establishing
+A059,agency,insight,8,neutral_factual,N,replace,,perspective,,,,perspective,insight*
+A060,agency,establish,7,neutral_factual,V,replace,,found|set up,,,,found,establish
+A061,agency,overcome,7,style,V,replace,,address|get past,,,,address,overcome
+A062,agency,achievement,6,style,N,replace,,result|outcome,,,,outcome,achiev*
+A063,agency,competitive,6,style,ADJ,delete,,focused,,x,competitive swimmer: deleting changes the statement,focused,compet*
+A064,agency,resolution,6,content,N,replace,,settlement|conclusion,comp,x,dispute resolution is a fixed term,conclusion,resolution
+A065,agency,achieved,5,style,V,replace,,reached,,,,completed,achiev*
+A066,agency,win,5,style,V,replace,,receive|secure,,x,,deliver,win
+A067,agency,accomplished,4,style,V,replace,,completed,,,,completed,accomplish*
+A068,agency,accomplished,4,style,ADJ,delete,,,,,an accomplished attorney -> an attorney,completed,accomplish*
+A069,agency,achieving,4,style,V,replace,,reaching,,,,completing,achiev*
+A070,agency,resilience,4,style,N,replace,,endurance|stability,,x,,stability,resilien*
+A071,agency,sure,4,neutral_factual,ADJ,replace,,certain,,,,certain,sure
+A072,agency,confident,3,style,ADJ,delete,,certain,,,,noted,confident
+A073,agency,determination,3,style,N,replace,,commitment|focus,,x,candidates replaced because the earlier ones were lexicon entries,stance,determin*
+A074,agency,determined,3,style,ADJ,delete,,,,,,dedicated,determin*
+A075,agency,determined,3,style,V,other_sense,,,,,"determined that = found, different word",dedicated,determin*
+A076,agency,priority,3,neutral_factual,N,replace,,focus,,,,precedence,priorit*
+A077,agency,succeed,3,style,V,replace,,perform well|thrive,,x,candidates replaced because the earlier ones were lexicon entries,deliver,succeed*
+A078,agency,succession,3,content,N,replace,,sequence,comp,x,succession planning is a fixed term,sequence,success*
+A079,agency,accomplishments,2,style,N,replace,,results|outcomes,,,,outcomes,accomplish*
+A080,agency,achievements,2,style,N,replace,,results|outcomes,,,,outcomes,achiev*
+A081,agency,ambition,2,style,N,replace,,focus,,,,focus,ambition*
+A082,agency,victory,2,style,N,replace,,result,,x,,result,victor*
+A083,agency,accomplish,1,style,V,replace,,complete,,,,complete,accomplish*
+A084,agency,autonomy,1,neutral_factual,N,replace,,latitude,,x,,latitude,autonomy
+A085,agency,earns,1,neutral_factual,V,replace,,receives,,,,produces,earns
+A086,agency,mastered,1,style,V,replace,,developed,,x,,developed,mastered
+A087,agency,mastery,1,style,N,replace,,grasp,,,,quality,mastery
+A088,agency,overcame,1,style,V,replace,,addressed,,,,addressed,overcame
+A089,agency,pursuit,1,neutral_factual,N,replace,,search,,x,,trajectory,pursu*
+A090,agency,willing,1,neutral_factual,ADJ,replace,,prepared,,,,prepared,willing*
+A091,agency,wins,1,style,V,replace,,receives|secures,,x,,delivers,wins
+A092,agency,wins,1,style,N,other_sense,,,,,different word,delivers,wins
+A093,agency,accomplishes,0,style,V,replace,,completes,,,,completes,accomplish*
+A094,agency,accomplishing,0,style,V,replace,,completing,,,,completing,accomplish*
+A095,agency,accomplishment,0,style,N,replace,,result|outcome,,,,outcome,accomplish*
+A096,agency,achieves,0,style,V,replace,,reaches,,,,completes,achiev*
+A097,agency,ambitious,0,style,ADJ,delete,,focused,,,,focused,ambitious*
+A098,agency,assertive,0,style,ADJ,delete,,direct,,,,direct,assert*
+A099,agency,independence,0,neutral_factual,N,replace,,discretion,,x,,discretion,independ*
+A100,agency,mastering,0,style,V,replace,,developing,,x,,developing,mastering
+A101,agency,overcomes,0,style,V,replace,,addresses,,,,addresses,overcomes
+A102,agency,succeeded,0,style,V,replace,,did well,,,,delivered,succeed*
+A103,agency,succeeds,0,style,V,replace,,does well,,,,delivers,succeed*
+A104,agency,successes,0,style,N,replace,,outcomes|results,,x,,outcomes,success*
+A105,agency,triumph,0,style,N,replace,,result,,x,,result,triumph*
+C143,communion,care,159,content,PH,replace,take care of,attend to,,,"take care of patients -> attend to patients; whole phrase rule, takes precedence over C011; removes the agency word take* as a side effect",,care|care*
+C144,communion,care,159,content,PH,replace,takes care of,attends to,,,"takes care of patients -> attends to patients; whole phrase rule, takes precedence over C011; removes the agency word take* as a side effect",,care|care*
+C145,communion,care,159,content,PH,replace,taking care of,attending to,,,"taking care of patients -> attending to patients; whole phrase rule, takes precedence over C011; removes the agency word take* as a side effect",,care|care*
+C146,communion,care,159,content,PH,replace,took care of,attended to,,,"took care of patients -> attended to patients; whole phrase rule, takes precedence over C011; removes the agency word take* as a side effect",,care|care*
+C147,communion,care,159,content,PH,replace,taken care of,attended to,,,"taken care of patients -> attended to patients; whole phrase rule, takes precedence over C011; removes the agency word take* as a side effect",,care|care*

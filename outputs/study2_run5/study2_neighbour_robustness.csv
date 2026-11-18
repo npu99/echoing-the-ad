@@ -1,0 +1,21 @@
+test,quantity,screener,encoder,scope,n_points,n_occupations,rho,p,rho_published,p_published,lead_occupations_equal
+T2,slope of a bio over the ads,arm1,SBERT,all advertisements,3250,13,0.12325409681896686,0.0001999600079984003,0.1232538723025162,0.0001999600079984,
+T2,slope of a bio over the ads,arm1,SBERT,without neighbouring titles,3250,13,0.11565377434817196,0.0001999600079984003,,,
+T2,slope of a bio over the ads,arm2,Qwen3-Embedding,all advertisements,3250,13,0.13187753852657033,0.0001999600079984003,0.13187753852657033,0.0001999600079984003,
+T2,slope of a bio over the ads,arm2,Qwen3-Embedding,without neighbouring titles,3250,13,0.1249989551496329,0.0001999600079984003,,,
+T2,slope of a bio over the ads,arm3,language model,all advertisements,1283,13,0.0849824772134031,0.001799640071985603,,,
+T2,slope of a bio over the ads,arm3,language model,without neighbouring titles,1283,13,0.1091261107097531,0.0001999600079984003,,,
+T1,gap women minus men per ad,arm1,SBERT,all advertisements,2975,13,0.0864095470647988,0.0001999600079984003,0.0864095470647988,0.0001999600079984003,
+T1,gap women minus men per ad,arm1,SBERT,without neighbouring titles,2249,13,0.11765700704320395,0.0001999600079984003,,,
+T1,gap women minus men per ad,arm2,Qwen3-Embedding,all advertisements,2975,13,0.1002179344576633,0.0001999600079984003,0.1002179344576633,0.0001999600079984003,
+T1,gap women minus men per ad,arm2,Qwen3-Embedding,without neighbouring titles,2249,13,0.0927312987029244,0.0001999600079984003,,,
+T1,gap women minus men per ad,arm3,language model,all advertisements,260,13,0.13249403263084578,0.032993401319736056,0.13249403263084578,0.032993401319736056,
+T1,gap women minus men per ad,arm3,language model,without neighbouring titles,179,10,0.09684621299749009,0.20275944811037794,,,
+H4a,change of the communal arm per ad,arm1,SBERT,all advertisements,2975,13,-0.05532761812943984,0.001999600079984003,-0.05532761812943984,0.001999600079984003,
+H4a,change of the communal arm per ad,arm1,SBERT,without neighbouring titles,2249,13,-0.11373201031303552,0.0001999600079984003,,,
+H4a,change of the communal arm per ad,arm2,Qwen3-Embedding,all advertisements,2975,13,-0.11295568367450108,0.0001999600079984003,-0.11295568367450108,0.0001999600079984003,
+H4a,change of the communal arm per ad,arm2,Qwen3-Embedding,without neighbouring titles,2249,13,-0.13802851391598583,0.0001999600079984003,,,
+H4a,change of the communal arm per ad,arm3,language model,all advertisements,260,13,-0.10424560427289604,0.09318136372725455,-0.10424560427289604,0.09318136372725455,
+H4a,change of the communal arm per ad,arm3,language model,without neighbouring titles,179,10,-0.16224435991253514,0.03499300139972006,,,
+lead,gap women minus men,arm1,SBERT,all advertisements,2975,13,1.7351222799657775,,,,2.6409846421280108
+lead,gap women minus men,arm1,SBERT,without neighbouring titles,2249,13,2.300665277361037,,,,2.6081379522426684

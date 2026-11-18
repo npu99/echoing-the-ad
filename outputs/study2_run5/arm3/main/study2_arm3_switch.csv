@@ -1,0 +1,3 @@
+arm,n_pairs,share_yes_before,share_yes_after,n_yes_to_no,n_no_to_yes,n_unchanged_side,interpretable
+communion,10379,0.07004528374602563,0.0678292706426438,73,50,10256,True
+agency,10393,0.07668623111709805,0.0816895987684018,35,87,10271,True

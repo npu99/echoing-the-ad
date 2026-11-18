@@ -1,0 +1,23 @@
+{
+  "model": "Qwen/Qwen3-Embedding-0.6B",
+  "revision": "97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+  "substitute_used": false,
+  "substitute_reason": "",
+  "parameters": 595776512,
+  "weight_dtype": "torch.bfloat16",
+  "stored_dtype": "float32",
+  "embedding_dim": 1024,
+  "max_seq_length": 3294,
+  "longest_text_tokens": 3230,
+  "n_truncated": 0,
+  "normalised": true,
+  "instruction": "Instruct: Given a job description, retrieve professional biographies of candidates who fit the job\nQuery:{jd}",
+  "substitute_query_prefix": "query: ",
+  "substitute_document_prefix": "passage: ",
+  "n_bios": 6221,
+  "n_jds": 2975,
+  "transformers": "5.16.1",
+  "sentence_transformers": "5.7.0",
+  "torch": "2.11.0+cu128",
+  "device": "cuda"
+}

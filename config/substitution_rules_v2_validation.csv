@@ -1,0 +1,55 @@
+rule_id,arm,stratum,n_rated,n_passing_both,passed,consequence
+A001,agency,other_rules,1,0,True,no per-rule decision (outside the 30 most frequent rules)
+A002,agency,top_rule,5,3,True,rule kept
+A003,agency,top_rule,5,5,True,rule kept
+A004,agency,top_rule,5,2,False,occurrences stay untreated
+A005,agency,top_rule,5,5,True,rule kept
+A006,agency,top_rule,5,5,True,rule kept
+A007,agency,top_rule,5,1,False,occurrences stay untreated
+A008,agency,top_rule,5,5,True,rule kept
+A009,agency,top_rule,5,5,True,rule kept
+A010,agency,top_rule,5,3,True,rule kept
+A011,agency,top_rule,5,4,True,rule kept
+A014,agency,top_rule,5,4,True,rule kept
+A015,agency,top_rule,5,5,True,rule kept
+A017,agency,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+A019,agency,top_rule,5,5,True,rule kept
+A021,agency,top_rule,5,5,True,rule kept
+A024,agency,top_rule,5,5,True,rule kept
+A026,agency,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+A027,agency,other_rules,3,3,True,no per-rule decision (outside the 30 most frequent rules)
+A029,agency,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+A030,agency,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+A033,agency,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+A035,agency,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+A043,agency,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+A045,agency,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+A050,agency,other_rules,2,1,True,no per-rule decision (outside the 30 most frequent rules)
+A052,agency,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+C001,communion,top_rule,5,5,True,rule kept
+C002,communion,top_rule,5,5,True,rule kept
+C003,communion,top_rule,5,4,True,rule kept
+C004,communion,top_rule,5,5,True,rule kept
+C005,communion,top_rule,5,2,False,occurrences stay untreated
+C006,communion,top_rule,5,5,True,rule kept
+C009,communion,top_rule,5,5,True,rule kept
+C010,communion,top_rule,5,5,True,rule kept
+C014,communion,top_rule,5,5,True,rule kept
+C015,communion,top_rule,5,4,True,rule kept
+C016,communion,top_rule,5,5,True,rule kept
+C018,communion,other_rules,1,0,True,no per-rule decision (outside the 30 most frequent rules)
+C025,communion,top_rule,5,5,True,rule kept
+C026,communion,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+C030,communion,other_rules,4,4,True,no per-rule decision (outside the 30 most frequent rules)
+C031,communion,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+C033,communion,top_rule,5,5,True,rule kept
+C034,communion,top_rule,5,5,True,rule kept
+C036,communion,top_rule,4,4,True,no per-rule decision (outside the 30 most frequent rules)
+C038,communion,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+C041,communion,other_rules,1,0,True,no per-rule decision (outside the 30 most frequent rules)
+C043,communion,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+C049,communion,other_rules,1,0,True,no per-rule decision (outside the 30 most frequent rules)
+C060,communion,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+C063,communion,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+C066,communion,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)
+C068,communion,other_rules,1,1,True,no per-rule decision (outside the 30 most frequent rules)

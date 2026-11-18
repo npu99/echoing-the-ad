@@ -1,0 +1,7 @@
+dimension,group,n_hits,n_function_words,share_function_words
+communion,women,4039,2,0.0004951720722951226
+communion,men,3393,0,0.0
+communion,all,7432,2,0.00026910656620021526
+agency,women,1549,40,0.025823111684958037
+agency,men,1746,48,0.027491408934707903
+agency,all,3295,88,0.026707132018209408

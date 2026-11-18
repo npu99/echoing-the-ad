@@ -1,0 +1,2 @@
+other_run,n_prompts,n_identical_1e6,max_difference,median_difference,icc_between_sessions,spearman_rho,spearman_p,note
+pilot,5775,3777,5.176699178602087,0.0,0.9992092877270206,0.9990234590084858,0.0,mean over the passes of a prompt in each run

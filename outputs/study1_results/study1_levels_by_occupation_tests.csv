@@ -1,0 +1,49 @@
+measure,label,series,share,n,rho,p_perm
+communal_balance,F1  communal_balance,all,BLS,25,0.2669744230958945,0.200979902009799
+communal_balance,F1  communal_balance,all,bios,27,0.3937728937728938,0.047995200479952004
+communal_balance,F1  communal_balance,women,BLS,25,0.24658588646176996,0.23787621237876214
+communal_balance,F1  communal_balance,women,bios,27,0.336996336996337,0.09349065093490651
+communal_balance,F1  communal_balance,men,BLS,25,0.14079630958659564,0.5049495050494951
+communal_balance,F1  communal_balance,men,bios,27,0.2802197802197802,0.15998400159984003
+agency_rate,F1a agency_rate,all,BLS,25,-0.01154068111365538,0.9552044795520448
+agency_rate,F1a agency_rate,all,bios,27,-0.047619047619047616,0.8122187781221878
+agency_rate,F1a agency_rate,women,BLS,25,-0.033083285859145425,0.8724127587241276
+agency_rate,F1a agency_rate,women,bios,27,-0.05372405372405373,0.78992100789921
+agency_rate,F1a agency_rate,men,BLS,25,0.07963069968422214,0.7015298470152985
+agency_rate,F1a agency_rate,men,bios,27,0.08547008547008547,0.6708329167083291
+communion_rate,F1b communion_rate,all,BLS,25,0.26928255931862555,0.19118088191180882
+communion_rate,F1b communion_rate,all,bios,27,0.36446886446886445,0.0644935506449355
+communion_rate,F1b communion_rate,women,BLS,25,0.23273706912538353,0.25917408259174085
+communion_rate,F1b communion_rate,women,bios,27,0.33821733821733824,0.08839116088391161
+communion_rate,F1b communion_rate,men,BLS,25,0.22427390297536956,0.2766723327667233
+communion_rate,F1b communion_rate,men,bios,27,0.37973137973137966,0.05649435056494351
+passive_ratio,F2  passive_ratio,all,BLS,25,-0.377380272416531,0.0664933506649335
+passive_ratio,F2  passive_ratio,all,bios,27,-0.28327228327228327,0.15008499150084992
+passive_ratio,F2  passive_ratio,women,BLS,25,-0.3331409948141853,0.10788921107889211
+passive_ratio,F2  passive_ratio,women,bios,27,-0.2576312576312576,0.19808019198080193
+passive_ratio,F2  passive_ratio,men,BLS,25,-0.3154452837732471,0.1287871212878712
+passive_ratio,F2  passive_ratio,men,bios,27,-0.2216117216117216,0.27517248275172485
+f3_presence,F3  achievement (occurrence),all,BLS,25,0.23389113723674906,0.25777422257774224
+f3_presence,F3  achievement (occurrence),all,bios,27,0.0018315018315018313,0.9944005599440056
+f3_presence,F3  achievement (occurrence),women,BLS,25,0.201577230118514,0.33266673332666735
+f3_presence,F3  achievement (occurrence),women,bios,27,-0.010989010989010988,0.958904109589041
+f3_presence,F3  achievement (occurrence),men,BLS,25,0.24466243960949408,0.23267673232676733
+f3_presence,F3  achievement (occurrence),men,bios,27,0.023809523809523808,0.9061093890610938
+achievement_verb_rate,F3r achievement (rate),all,BLS,25,0.27543758924590844,0.1832816718328167
+achievement_verb_rate,F3r achievement (rate),all,bios,27,0.0463980463980464,0.8197180281971803
+achievement_verb_rate,F3r achievement (rate),women,BLS,25,0.21927294115945226,0.2936706329367063
+achievement_verb_rate,F3r achievement (rate),women,bios,27,0.03785103785103785,0.8532146785321468
+achievement_verb_rate,F3r achievement (rate),men,BLS,25,0.26235815065043233,0.20517948205179481
+achievement_verb_rate,F3r achievement (rate),men,bios,27,0.08302808302808302,0.6792320767923208
+f4_presence,F4  attribution (occurrence),all,BLS,25,0.03616080082278686,0.8674132586741325
+f4_presence,F4  attribution (occurrence),all,bios,27,-0.18192918192918192,0.3648635136486351
+f4_presence,F4  attribution (occurrence),women,BLS,25,-0.00038468937045517935,0.9996000399960004
+f4_presence,F4  attribution (occurrence),women,bios,27,-0.14346764346764346,0.4767523247675233
+f4_presence,F4  attribution (occurrence),men,BLS,25,0.07501442723875998,0.7215278472152785
+f4_presence,F4  attribution (occurrence),men,bios,27,-0.1349206349206349,0.506049395060494
+attribution_passive_rate,F4r attribution (rate),all,BLS,25,0.00038468937045517935,0.9996000399960004
+attribution_passive_rate,F4r attribution (rate),all,bios,27,-0.19658119658119658,0.32596740325967405
+attribution_passive_rate,F4r attribution (rate),women,BLS,25,-0.007309098038648408,0.9731026897310269
+attribution_passive_rate,F4r attribution (rate),women,bios,27,-0.15445665445665446,0.44515548445155484
+attribution_passive_rate,F4r attribution (rate),men,BLS,25,0.062319678013739055,0.7703229677032297
+attribution_passive_rate,F4r attribution (rate),men,bios,27,-0.14163614163614163,0.48265173482651735

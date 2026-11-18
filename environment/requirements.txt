@@ -1,0 +1,37 @@
+# Verified 2026-10-10 in the Anaconda environment behind the Jupyter kernel "base"
+# (<your Python>\anaconda3\python.exe). See README.md in this folder.
+#
+# python==3.13.9
+#
+# Some of these are conda-installed in the reference environment, so a plain
+# "pip freeze" there does not list them all; the versions below were read from the
+# imported modules.
+
+# Core analysis
+numpy==2.1.3
+pandas==2.2.3
+pyarrow==19.0.0
+scipy==1.15.3
+statsmodels==0.14.4
+scikit-learn==1.6.1
+
+# Plotting
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# NLP — Study 1 features (F1-F4)
+spacy==3.8.14
+thinc==8.3.13
+blis==1.3.3
+# Model, not on PyPI:  python -m spacy download en_core_web_lg
+# en_core_web_lg==3.8.0
+gender-guesser==0.4.0   # first-name removal, stage 2 of notebook 02
+
+# Embeddings — Study 2 ranking experiment
+sentence-transformers==6.0.1
+torch==2.14.0
+transformers==5.16.1
+
+# Misc
+tqdm==4.67.1
+openpyxl==3.1.5   # rating file for the substitution list v2 (Study 2, Part 1.6)

@@ -1,0 +1,3 @@
+arm,lexicon_hits,replaced,deleted,untreated,treated_share,untreated_fixed_term,untreated_proper_name,untreated_capitalised_mid_sentence,untreated_hyphenated,untreated_function_word_kept,untreated_no_rule_for_word,untreated_no_rule_for_position,untreated_other_sense,untreated_no_neutral_candidate,untreated_protect_comp,untreated_protect_mod,untreated_validation
+communion,7425,3281,29,4115,0.4457912457912458,879,1400,36,61,2,988,50,6,0,452,64,177
+agency,3293,1435,40,1818,0.44791982994230184,89,181,16,71,88,901,5,11,5,19,50,382
